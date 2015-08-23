@@ -480,3 +480,8 @@ body {
     width: 33%;
   }
 }
+
+.centered-ul {
+    float:none;
+    display: inline-block;
+}
